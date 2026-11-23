@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+ORGANIZED+VILLAGE+OF+KAKE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+ORGANIZED+VILLAGE+OF+KAKE",
+  "title": "Federal Register - AK ORGANIZED VILLAGE OF KAKE",
+  "fetched_at": "2026-11-23T17:25:06.046187Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 224895,
+  "sha256": "f6753b636287b108952156d68139c427616b157a914aa4611e1e9436e48acb5d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
